@@ -1,0 +1,12 @@
+html {
+background-color: blanchedalmond;
+}
+
+.container {
+position: absolute;
+left: 600px;
+text-align: center;
+width: 350px;
+background: white;
+border-radius: 4%;
+}
